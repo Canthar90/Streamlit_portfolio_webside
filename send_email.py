@@ -11,16 +11,12 @@ PORT = 465
 
 reciver = USERNAME
 
-message = """
-Subject: Contact form message!
-Whats up m8
-Bye
-"""
+def send_email(message):
 
-context = ssl.create_default_context()
+    context = ssl.create_default_context()
 
-with smtplib.SMTP_SSL(HOST, PORT, context=context) as server:
-    server.login(USERNAME, PASS)
-    server.sendmail(USERNAME, reciver, message)
+    with smtplib.SMTP_SSL(HOST, PORT, context=context) as server:
+        server.login(USERNAME, PASS)
+        server.sendmail(USERNAME, reciver, message)
 
 
