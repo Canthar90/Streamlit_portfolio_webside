@@ -4,3 +4,4 @@ Example Company webside;Just simple example company webside created with Streali
 Nasa APOD;App that displays Nasa Astronomical Pictiure of the Day;https://canthar90-nasa-api-main-0iagbr.streamlit.app;miages/solar-system.png
 Happines Charts;Simple App that allows user to generate charts about Happiness data with x and y axes selected by user.;https://canthar90-happines-data-app-main-w8v24u.streamlit.app;miages/happy.jpg
 Weather forecas;Weather forecast for any city in 1 to 5 days time span.;https://canthar90-weather-forecast-app-main-8hcp1u.streamlit.app;miages/weather.jpg
+Weather API;Weather API that enables to wiew historical weather data basing on weather station id;https://github.com/Canthar90/Weather_API;miages/weather_api.jpg
