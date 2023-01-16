@@ -46,3 +46,7 @@ with col4:
         st.write(row["description"])
         st.image(row["image"], width=250)
         st.write(f"[Go to app]({row['url']})")
+        
+
+
+st.markdown("<p style='text-align: center;'>I would like to attribute Freepic <a href='https://www.freepik.com'>Visit Freepick</a></h1>", unsafe_allow_html=True)

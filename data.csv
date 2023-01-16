@@ -6,3 +6,9 @@ Happines Charts;Simple App that allows user to generate charts about Happiness d
 Weather forecas;Weather forecast for any city in 1 to 5 days time span.;https://canthar90-weather-forecast-app-main-8hcp1u.streamlit.app;miages/weather.jpg
 Weather API;Weather API that enables to wiew historical weather data basing on weather station id.;https://github.com/Canthar90/Weather_API;miages/weather_api.jpg
 Security webcam app;App that detect new objects enetring the frame, and sends notification email with given object phtoto.;https://github.com/Canthar90/Security_cam_app;miages/cam.jpg
+Scrapping Musical event;App that scraps musical events sends email in new event occure. Every event is stored in SQL database.;https://github.com/Canthar90/Scrapping_Musical_events;miages/musical_event.png
+Regex Boox analise;Analise of plain text book with regex in Jupyter notebook.;https://github.com/Canthar90/book_analisis;miages/open-book.png
+Classical Snake;Classical snake written with tkinter and calasses funfact every semgent have unique name.;https://github.com/Canthar90/snake;miages/snake.png
+PONG;Classical pong written again with tkinter.;https://github.com/Canthar90/PONG;miages/ping-pong.png
+Coffe Api;Restfull coffe api, written in flask with working database, serchin of particular recipee and adding new one.;https://github.com/Canthar90/Api-Restfull-Databases;miages/coffee-pot.png
+Top 10 Movies;App listing top 10 movies of all time. Buldet with flask with working frontend. Front written with Bootstrap.;https://github.com/Canthar90/top-10-movies-site;miages/video-camera.png
