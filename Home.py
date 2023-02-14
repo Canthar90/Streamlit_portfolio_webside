@@ -68,5 +68,23 @@ with col6:
         st.image(row["image"], width=250)
         st.write(f"[Go to repo]({row['url']})")
 
+st.info("Below you can find videos and links to repos of games written by me. All written using Pygame")        
+col7, col8 = st.columns(2)
+videos_df = pandas.read_csv("videos.csv", sep=";")
+
+with col7:
+    for index, row in videos_df[0::2].iterrows():
+        st.header(row["title"])
+        st.write(row["description"])
+        st.video(row["link"])
+        st.write(f"[Go to repo]({row['url']})")
+        
+with col8:
+    for index, row in videos_df[1::2].iterrows():
+        st.header(row["title"])
+        st.write(row["description"])
+        st.video(row["link"])
+        st.write(f"[Go to repo]({row['url']})")
+
 
 st.markdown("<p style='text-align: center;'>I would like to attribute Freepic <a href='https://www.freepik.com'>Visit Freepick</a></h1>", unsafe_allow_html=True)
