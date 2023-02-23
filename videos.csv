@@ -1,3 +1,4 @@
 title;description;url;link
 Asteroid Shooter;Basic Asteroid Shooter game written with pygame in OOP principals. Working collisions simple rotations of rectangles etc.;https://github.com/Canthar90/Asteroid_sooter_classes;https://www.youtube.com/watch?v=PYqbuFoYWVM
 Frugger;Simple Street Crossig game cross the street and avoid being crashed by a car. Working hitboxes 2,5 dimmetnional effect music simple menus etc.;https://github.com/Canthar90/Frugger;https://www.youtube.com/watch?v=n-wrQ8Ok870
+Western Shooter; 2D western shooter game with 2 types of enemies one mele attacking one range attacking. Map created in tiled, everything in pygame.;https://github.com/Canthar90/Western_Shooter;https://www.youtube.com/watch?v=IYnHu5jq24o
