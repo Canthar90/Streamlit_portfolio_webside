@@ -1,4 +1,5 @@
 title;description;url;image
+Message coding app;Steganography based image coding app. User can code secret message inside image. Message itself is encrypted using random encryption key. Decryption key with login and hashed password are saved inside database. Every coded message contains unique login. Non hashed password is given to the user upon codec image creation.;https://canthar90-coding-messages-front-4fsn35.streamlit.app;miages/caesar-cipher.png
 Drink App;App that helps to find your next drink. It's hard to find tasty drink recipe. This app helps you with that, You can search drinks by name or by ingredient.;https://canthar90-usefull-stuff-pagesdrinks-q7o5qe.streamlit.app;miages/drink.png
 Example Company website;Just simple example company website created with Strealit. Contact form is working so you can spam me.;https://canthar90-streamlit-example-company-webside-home-przfis.streamlit.app;miages/18771.jpg
 Nasa APOD;App that displays Nasa Astronomical Pictiure of the Day.;https://canthar90-nasa-api-main-0iagbr.streamlit.app;miages/solar-system.png
